@@ -59,3 +59,7 @@ Aop代理的方法和目标方法
         Spring Aop则采用运行时生成AOP代理类，因此无需使用特定编译器进行处理，由于Spring
     Aop需要在每次运行时生成AOP代理，因此性能略差一些。
 </pre>
+
+AOP事务
+
+![](https://i.imgur.com/Sa3RjBm.png)
